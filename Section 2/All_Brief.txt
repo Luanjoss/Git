@@ -1,0 +1,22 @@
+Step number one, ways to start a project open source.
+
+1.You can start a new repository on GitHub and then sync with a file/folder on your the computer.
+2.You can also start creating a file/folder on your the computer, and then start a new repository on GitHub. 
+
+
+
+The order doesn't matter, but the second step, yhe!
+
+------------------------------------------------------------------------------------------------------------------
+
+-If you use a source code editor:
+
+in terminal run git init to establish a connection between you repository local and repository remote.
+
+-If you use a Git Bash:
+
+in terminal run git init to establish a connection between you repository local and repository remote. 
+
+
+
+You will see that a new folder ".git" has been created. Create by you when you ran git init.

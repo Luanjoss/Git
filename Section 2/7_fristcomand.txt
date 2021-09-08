@@ -1,0 +1,6 @@
+1. git init => Run git init to create a new repository.
+2. ls -al => Show folders and files.
+3. git status => Files to give commit.
+4. git add => add the file/folder to be commited.
+5. git commit -m "Change made"
+6. git push -u origin master => used to submit the commit on branch for the first time. Then it's only used "push"

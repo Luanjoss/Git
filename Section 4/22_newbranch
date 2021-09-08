@@ -1,0 +1,21 @@
+how to know in which branch yuu are on?
+
+1.git status
+2.git branch
+
+------------------------------------------------------------------------------------------------------------------
+
+Create and change a branch:
+
+step one, creating and then changing for your new branch.
+
+1.git branch "nova_branch"
+2.git checkout
+
+step two, creating and changing at the same time.
+
+1.git checkout -b "nova_branch" 
+
+Delete a branch
+
+1.git branch -d "branch"

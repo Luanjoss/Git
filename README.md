@@ -19,6 +19,9 @@
 
 ## Seção 3: Histórico e Conflitos
 
+13.
+14.
+15.
 ## Seção 4: Branching, Merge e Rebase
 
 ## Seção 5: Colaboração com Open Source
